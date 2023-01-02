@@ -2,23 +2,9 @@
 
 ## Project setup
 ```
-yarn install
-```
-
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
-
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+How to run in local
+1. Clone this repository by opening the terminal then typing the command `git clone https://github.com/denislistiadi/mini-app`
+2. then `cd mini-app`
+3. `yarn install`
+4. `yarn serve`
+5. Open a browser and visit `http://localhost:8080`

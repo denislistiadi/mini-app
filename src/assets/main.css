@@ -1,0 +1,23 @@
+* {
+  font-family: 'Roboto', sans-serif !important;
+}
+
+main {
+  max-width: 480px;
+  width: 100%;
+  margin: auto;
+  background-color: #e4f5f4;
+  min-height: 100vh;
+  padding: 47px;
+}
+
+@media screen and (max-width: 480px) {
+  main {
+    padding: 20px;
+  }
+}
+
+.img-logo {
+  height: 33px;
+  margin-bottom: 20px;
+}
